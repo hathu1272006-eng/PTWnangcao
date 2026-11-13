@@ -40,6 +40,15 @@ Hình kiến trúc tổng thể đã đổi sang trắng/xám với điểm nh�
 - [Mở Hình 3.2 bằng Draw.io](https://app.diagrams.net/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhathu1272006-eng%2FPTWnangcao%2F4a5de44b56c87e73e7a779919a11b56253b606d2%2FFarmTable_Chuong3%2FSo_do_BA%2Fdrawio%2FHinh_3_2.drawio)
 - [Xem ảnh Hình 3.2](So_do_BA/png/Hinh_3_2.png)
 
+## Rà soát mũi tên từ Hình 3.5
+
+Đã rà ảnh xuất Draw.io của cả 20 hình từ 3.5 trở đi, đặt lại các nhãn, căn thẳng các đoạn nối và sửa các tuyến đi qua khối không liên quan. Hình 3.10 được bố trí lại theo từng tiến trình với các ký hiệu lặp có ghi rõ, giữ nguyên 22 luồng dữ liệu; Hình 3.15 sửa nhánh xung đột; Hình 3.7 giãn các nhánh và nhãn điều kiện.
+
+Word/PDF đã thay ảnh và cập nhật các link Draw.io tương ứng. Hình 3.10 trong Word được tăng kích thước để đọc rõ hơn. Màu cơ bản và chữ cỡ 13 được giữ.
+
+- [Xem Hình 3.10](So_do_BA/png/Hinh_3_10.png)
+- [Rà soát từng hình và kết quả kiểm tra](So_do_BA/KIEM_TRA_DUONG_NOI.md)
+
 ## Bản cơ bản từ Hình 3.5 đến hết
 
 20 hình từ 3.5–3.22, gồm 3.11a và 3.12a, dùng nền trắng, khối trắng hoặc xám nhạt, chữ và đường nối xám đậm. Chỉ một số khối chính được nhấn bằng xanh xám rất nhạt. Bản này thay thế cách phối nhiều màu của lần trước. Hình 3.1–3.4 giữ bản đã chốt.

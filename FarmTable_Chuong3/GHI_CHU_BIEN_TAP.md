@@ -12,7 +12,7 @@ Lưu ý về môi trường thực thi và hướng dẫn biên tập được �
 
 Bản PDF 37 trang, khổ A4. Toàn bộ chữ được soạn trong Word dùng cỡ 13; nội dung dùng Times New Roman, mã minh họa dùng Courier New. Cỡ chữ bên trong sơ đồ giữ theo bản Draw.io đã thiết kế. Chú thích hình căn giữa, in nghiêng, kèm “(link)” màu xanh và gạch chân theo mẫu. Cả Word và PDF có 24 liên kết thực.
 
-Liên kết mở ứng dụng https://app.diagrams.net/ và nạp đúng tệp `.drawio` của từng hình. Nguồn sơ đồ được ghim theo phiên bản khớp với ảnh trong báo cáo: Hình 3.1/3.3 tại `3360c016c846168f93370341e93e597bb8c32453`; Hình 3.2 tại `4a5de44b56c87e73e7a779919a11b56253b606d2`; Hình 3.4 tại `d0225b81f29f8f7f62900127e5f587fb40eaa83b`; toàn bộ 20 hình từ 3.5 trở đi tại `9afba0187b1fc378feb947d3d9e9050e71c42dd1`. Không yêu cầu quyền ghi repo khi mở để xem; có thể tải/lưu bản riêng để chỉnh sửa.
+Liên kết mở ứng dụng https://app.diagrams.net/ và nạp đúng tệp `.drawio` của từng hình. Nguồn sơ đồ được ghim theo phiên bản khớp với ảnh trong báo cáo: Hình 3.1/3.3 tại `3360c016c846168f93370341e93e597bb8c32453`; Hình 3.2 tại `4a5de44b56c87e73e7a779919a11b56253b606d2`; Hình 3.4 tại `d0225b81f29f8f7f62900127e5f587fb40eaa83b`; toàn bộ 20 hình từ 3.5 trở đi tại `03af9a209fa649062a43c16b52a12c1bc4051b45`. Không yêu cầu quyền ghi repo khi mở để xem; có thể tải/lưu bản riêng để chỉnh sửa.
 
 Đã kiểm tra cấu trúc DOCX, 24 ảnh/24 liên kết, 16 bảng; kiểm tra văn bản PDF có cỡ 13 và không tràn lề; kiểm tra 24 URL nguồn trả HTTP 200 và XML Draw.io hợp lệ. Đã rà soát bố cục bản PDF sau chuyển đổi. Kiểm tra URL nguồn không thay thế việc kiểm tra trình duyệt của từng người đọc.
 
@@ -35,3 +35,9 @@ Giữ 14 chức năng dạng oval và bốn tác nhân ở ngoài biên hệ th�
 Thay 20 hình từ 3.5–3.22 (có 3.11a và 3.12a) bằng bản giản lược: nền trắng, khối trắng/xám nhạt, chữ và đường nối xám đậm; một số khối chính nhấn xanh xám rất nhạt. Bản này thay thế cách phối màu theo nhiều vai trò/trạng thái ở lần trước.
 
 Chỉ sửa thuộc tính màu. Nội dung, kiểu shape, vị trí, kích thước, cặp nguồn–đích và đường nối được giữ nguyên; Hình 3.1–3.4 giữ phiên bản đã chốt. Đã mở/xuất 20 hình và bộ 24 trang trong Draw.io, thay ảnh trong Word/PDF và cập nhật 20 link tương ứng. Nội dung chương, 24 chú thích/link và cỡ chữ 13 vẫn được giữ.
+
+## Rà soát và sửa đường nối toàn bộ hình từ 3.5
+
+Đã rà 20 hình bằng ảnh xuất thực của Draw.io và kiểm tra hình học các đường nối/nhãn. Đặt lại 130 nhãn connector, căn thẳng các đoạn nối phù hợp, sửa nhánh xung đột Hình 3.15 và giãn nhánh ở Hình 3.7. Hình 3.10 bố trí lại theo từng tiến trình; ký hiệu tác nhân/kho lặp có ghi rõ và được đối chiếu theo định danh logic để giữ nguyên 22 luồng. Các quan hệ, ký pháp và màu cơ bản được giữ.
+
+Kiểm tra trên SVG không phát hiện đường nối đi qua khối không liên quan, nhãn đè lên khối/nhãn khác hoặc nằm trên đường nối. Đã mở/xuất cả bộ 24 trang trong Draw.io; Word/PDF, ảnh, vector, A3 và ZIP đã đồng bộ. Hình 3.10 trong Word được tăng kích thước. Nội dung chữ của chương được đối chiếu giữ nguyên; 20 link đã đổi sang nguồn mới, bốn link đầu giữ bản đã chốt. Xem `So_do_BA/KIEM_TRA_DUONG_NOI.md` và kết quả JSON kèm theo.
