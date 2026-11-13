@@ -46,3 +46,8 @@
 ## Bản cơ bản từ Hình 3.5
 
 Đã giản lược 20 hình sang trắng/xám nhạt, chỉ nhấn nhẹ một số khối bằng xanh xám. Cấu trúc, ký pháp và đường nối giữ nguyên. Bản này thay thế cách phối nhiều màu trong từng hình ở lần trước.
+
+
+## Rà soát toàn bộ đường nối từ Hình 3.5
+
+Đã sửa bố cục DFD 3.10, nhánh xung đột 3.15, giãn nhánh 3.7, căn thẳng đoạn nối và đặt lại nhãn trên cả bộ. Chi tiết từng hình tại `KIEM_TRA_DUONG_NOI.md`.

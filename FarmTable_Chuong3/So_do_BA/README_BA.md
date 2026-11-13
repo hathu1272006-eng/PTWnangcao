@@ -97,3 +97,5 @@ Từ Hình 3.5, các hình dùng trắng, xám nhạt và một màu nhấn xanh
 - ML có timeout 1.500 ms và fallback; chatbot chỉ đọc đơn của chính người mua. Mã hiện tại `round <= 5` có thể gọi model tối đa 6 lượt, không mô tả thành đúng 5 lượt.
 
 Nguồn mã: lini1907/Web_Project, nhánh feat/v2-fullstack, commit `5b949f0a0b575308266e49af7b5d52604e8daf9d`; outline và thông tin dự án Hà cung cấp. Đây là mô hình hóa và kiểm tra ký pháp/đối chiếu mã, không phải chứng nhận tuân thủ BPMN của một công cụ phân tích thực thi. Bộ API test cần MongoDB vẫn chưa được xác minh trong phiên soạn.
+
+Xem [rà soát đường nối từng hình](KIEM_TRA_DUONG_NOI.md).
