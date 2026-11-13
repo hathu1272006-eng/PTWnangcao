@@ -36,3 +36,8 @@
 - Cả 16 association từ actor đến chức năng là một đoạn thẳng, nét liền; không dùng đường gấp vuông. Association giữ ký pháp UML không đầu mũi tên.
 - Hai quan hệ include dùng nét đứt, đầu mũi tên mở hướng đến use case được bao gồm. Đặt Mystery Box, Đặt hàng và Kiểm tra giá/tồn gần nhau để hai đường này cũng đi thẳng.
 - Giữ nguyên tên, số lượng và cặp nguồn–đích của các quan hệ; đã mở/xuất lại bằng Draw.io và kiểm tra hình.
+
+
+## Từ Hình 3.5 – phối nhiều màu pastel trong từng hình
+
+Đã thay cách tô một tông cho toàn hình bằng phối màu theo vai trò, dữ liệu, bước xử lý và trạng thái. Gồm 20 hình từ 3.5 đến 3.22, có 3.11a/3.12a. Các điểm nối, geometry và ký pháp được giữ nguyên. Xem `QUY_UOC_MAU_BA.md` và bảng phối màu mới.
