@@ -40,11 +40,16 @@ Hình kiến trúc tổng thể đã đổi sang trắng/xám với điểm nh�
 - [Mở Hình 3.2 bằng Draw.io](https://app.diagrams.net/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhathu1272006-eng%2FPTWnangcao%2F4a5de44b56c87e73e7a779919a11b56253b606d2%2FFarmTable_Chuong3%2FSo_do_BA%2Fdrawio%2FHinh_3_2.drawio)
 - [Xem ảnh Hình 3.2](So_do_BA/png/Hinh_3_2.png)
 
-## Màu và đường nối đã cập nhật
+## Phối màu từ Hình 3.5 đến hết
 
-Mỗi hình dùng một tông màu chủ đạo riêng; giữ nền pastel và chữ tối. Đã sắp lại các đường hồi tiếp, đường lỗi, nhánh XOR và nhãn sự kiện/gateway bị đè. Đầu–cuối nghiệp vụ, nhãn và ký pháp được đối chiếu với bản trước.
+20 hình từ 3.5–3.22, gồm 3.11a và 3.12a, đã đổi từ cách tô một tông cho toàn hình sang phối màu pastel theo vai trò, nhóm dữ liệu hoặc trạng thái. Nền trắng, chữ tối, đường nối xám; màu chỉ nhấn những nhóm cần phân biệt. Hình 3.1–3.4 giữ bản đã chốt.
 
-![24 tông màu chủ đạo](So_do_BA/Bang_mau_24_so_do.png)
+Bản Word đã thay đủ 20 hình và cập nhật các link Draw.io cạnh chú thích để mở đúng phiên bản mới. PDF, bản A3 và bộ ZIP được cập nhật cùng phiên bản; cỡ chữ nội dung vẫn là 13.
+
+- [Xem trước toàn bộ 20 hình](So_do_BA/Xem_truoc_phoi_mau.jpg)
+- [Quy ước phối màu](So_do_BA/QUY_UOC_MAU_BA.md)
+
+![Phối màu pastel](So_do_BA/Bang_mau_24_so_do.png)
 
 Xem [chi tiết chỉnh đường nối](So_do_BA/CAP_NHAT_MAU_VA_DUONG_NOI.md).
 
