@@ -26,6 +26,13 @@ Nội dung được viết lại theo mạch trình bày của Chương 1, 4, 5 
 
 Xem [ghi chú biên tập và phạm vi kiểm tra](GHI_CHU_BIEN_TAP.md).
 
+## Chỉnh riêng Hình 3.4
+
+Các chức năng giữ hình oval. Đường nối giữa tác nhân và chức năng là đoạn thẳng nét liền; include giữ nét đứt và hướng mũi tên theo UML. Màu pastel phân nhóm: xanh nhạt, mint, cam kem và tím nhạt. Bản Word/PDF cùng bộ sơ đồ đã cập nhật đồng bộ.
+
+- [Mở Hình 3.4 bằng Draw.io](https://app.diagrams.net/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhathu1272006-eng%2FPTWnangcao%2Fd0225b81f29f8f7f62900127e5f587fb40eaa83b%2FFarmTable_Chuong3%2FSo_do_BA%2Fdrawio%2FHinh_3_4.drawio)
+- [Xem ảnh Hình 3.4](So_do_BA/png/Hinh_3_4.png)
+
 ## Chỉnh riêng Hình 3.2
 
 Hình kiến trúc tổng thể đã đổi sang trắng/xám với điểm nhấn be nhạt ở API và lớp nghiệp vụ. Nhãn đặt lệch khỏi mũi tên; đường gọi dịch vụ ngoài đi dưới khối MongoDB; đường SSE có hành lang riêng. Bản Word/PDF và các bộ sơ đồ đã đồng bộ, liên kết ở chú thích Hình 3.2 mở bản đã sửa.
