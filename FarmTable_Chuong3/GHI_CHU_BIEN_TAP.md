@@ -12,7 +12,7 @@ Lưu ý về môi trường thực thi và hướng dẫn biên tập được �
 
 Bản PDF 37 trang, khổ A4. Toàn bộ chữ được soạn trong Word dùng cỡ 13; nội dung dùng Times New Roman, mã minh họa dùng Courier New. Cỡ chữ bên trong sơ đồ giữ theo bản Draw.io đã thiết kế. Chú thích hình căn giữa, in nghiêng, kèm “(link)” màu xanh và gạch chân theo mẫu. Cả Word và PDF có 24 liên kết thực.
 
-Liên kết mở ứng dụng https://app.diagrams.net/ và nạp đúng tệp `.drawio` của từng hình. Nguồn sơ đồ được ghim tại commit `3360c016c846168f93370341e93e597bb8c32453` của repo PTWnangcao để khớp với ảnh trong báo cáo. Không yêu cầu quyền ghi repo khi mở để xem; có thể tải/lưu bản riêng để chỉnh sửa.
+Liên kết mở ứng dụng https://app.diagrams.net/ và nạp đúng tệp `.drawio` của từng hình. Nguồn sơ đồ được ghim tại commit `3360c016c846168f93370341e93e597bb8c32453` của repo PTWnangcao; riêng Hình 3.2 dùng bản sửa tại commit `4a5de44b56c87e73e7a779919a11b56253b606d2` để khớp với ảnh trong báo cáo. Không yêu cầu quyền ghi repo khi mở để xem; có thể tải/lưu bản riêng để chỉnh sửa.
 
 Đã kiểm tra cấu trúc DOCX, 24 ảnh/24 liên kết, 16 bảng; kiểm tra văn bản PDF có cỡ 13 và không tràn lề; kiểm tra 24 URL nguồn trả HTTP 200 và XML Draw.io hợp lệ. Đã rà soát bố cục bản PDF sau chuyển đổi. Kiểm tra URL nguồn không thay thế việc kiểm tra trình duyệt của từng người đọc.
 
@@ -21,3 +21,7 @@ Liên kết mở ứng dụng https://app.diagrams.net/ và nạp đúng tệp `
 Nội dung đối chiếu FarmTable_Outline.md, FarmTable_ThongTin.md và mã nguồn `lini1907/Web_Project`, nhánh `feat/v2-fullstack`, commit `5b949f0a0b575308266e49af7b5d52604e8daf9d`. Đây là lần chỉnh tài liệu, không sửa mã nguồn ứng dụng.
 
 Frontend đã build thành công ở lần kiểm tra trước. Bộ kiểm thử API phụ thuộc MongoDB chưa được xác minh trong phiên soạn vì môi trường chặn tải binary từ máy chủ MongoDB. Mục 3.8.1 trình bày phương pháp/kịch bản kiểm thử, không phải xác nhận các ca đã chạy đạt trong phiên này. Các mã TC và thống kê bộ kiểm thử dẫn theo tài liệu dự án. Phần SUS là đề xuất bổ sung phương pháp, chưa có dữ liệu thu thập thực tế.
+
+## Chỉnh riêng Hình 3.2 theo phản hồi
+
+Đổi sang bảng màu trắng/xám và be nhạt. Giãn các khối, tách nhãn khỏi đường, sửa điểm kết thúc ở package nghiệp vụ, đặt đường gọi dịch vụ ngoài dưới MongoDB và tách đường SSE quay về giao diện. Bảy quan hệ vẫn giữ nội dung và cặp nguồn–đích. Hình được mở/xuất lại bằng Draw.io; bản tổng hợp 24 trang, ảnh PNG, vector SVG, A3, ZIP và ảnh trong chương đều đã đồng bộ. Liên kết ở chú thích Hình 3.2 trong Word/PDF mở phiên bản mới.

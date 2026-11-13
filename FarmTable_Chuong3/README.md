@@ -26,6 +26,13 @@ Nội dung được viết lại theo mạch trình bày của Chương 1, 4, 5 
 
 Xem [ghi chú biên tập và phạm vi kiểm tra](GHI_CHU_BIEN_TAP.md).
 
+## Chỉnh riêng Hình 3.2
+
+Hình kiến trúc tổng thể đã đổi sang trắng/xám với điểm nhấn be nhạt ở API và lớp nghiệp vụ. Nhãn đặt lệch khỏi mũi tên; đường gọi dịch vụ ngoài đi dưới khối MongoDB; đường SSE có hành lang riêng. Bản Word/PDF và các bộ sơ đồ đã đồng bộ, liên kết ở chú thích Hình 3.2 mở bản đã sửa.
+
+- [Mở Hình 3.2 bằng Draw.io](https://app.diagrams.net/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhathu1272006-eng%2FPTWnangcao%2F4a5de44b56c87e73e7a779919a11b56253b606d2%2FFarmTable_Chuong3%2FSo_do_BA%2Fdrawio%2FHinh_3_2.drawio)
+- [Xem ảnh Hình 3.2](So_do_BA/png/Hinh_3_2.png)
+
 ## Màu và đường nối đã cập nhật
 
 Mỗi hình dùng một tông màu chủ đạo riêng; giữ nền pastel và chữ tối. Đã sắp lại các đường hồi tiếp, đường lỗi, nhánh XOR và nhãn sự kiện/gateway bị đè. Đầu–cuối nghiệp vụ, nhãn và ký pháp được đối chiếu với bản trước.
