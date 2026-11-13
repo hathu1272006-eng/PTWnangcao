@@ -12,7 +12,7 @@ Lưu ý về môi trường thực thi và hướng dẫn biên tập được �
 
 Bản PDF 37 trang, khổ A4. Toàn bộ chữ được soạn trong Word dùng cỡ 13; nội dung dùng Times New Roman, mã minh họa dùng Courier New. Cỡ chữ bên trong sơ đồ giữ theo bản Draw.io đã thiết kế. Chú thích hình căn giữa, in nghiêng, kèm “(link)” màu xanh và gạch chân theo mẫu. Cả Word và PDF có 24 liên kết thực.
 
-Liên kết mở ứng dụng https://app.diagrams.net/ và nạp đúng tệp `.drawio` của từng hình. Nguồn sơ đồ được ghim theo phiên bản khớp với ảnh trong báo cáo: Hình 3.1/3.3 tại `3360c016c846168f93370341e93e597bb8c32453`; Hình 3.2 tại `4a5de44b56c87e73e7a779919a11b56253b606d2`; Hình 3.4 tại `d0225b81f29f8f7f62900127e5f587fb40eaa83b`; toàn bộ 20 hình từ 3.5 trở đi tại `36bd42a778f872a18aaae8e58403dd1c1ebd3c73`. Không yêu cầu quyền ghi repo khi mở để xem; có thể tải/lưu bản riêng để chỉnh sửa.
+Liên kết mở ứng dụng https://app.diagrams.net/ và nạp đúng tệp `.drawio` của từng hình. Nguồn sơ đồ được ghim theo phiên bản khớp với ảnh trong báo cáo: Hình 3.1/3.3 tại `3360c016c846168f93370341e93e597bb8c32453`; Hình 3.2 tại `4a5de44b56c87e73e7a779919a11b56253b606d2`; Hình 3.4 tại `d0225b81f29f8f7f62900127e5f587fb40eaa83b`; toàn bộ 20 hình từ 3.5 trở đi tại `9afba0187b1fc378feb947d3d9e9050e71c42dd1`. Không yêu cầu quyền ghi repo khi mở để xem; có thể tải/lưu bản riêng để chỉnh sửa.
 
 Đã kiểm tra cấu trúc DOCX, 24 ảnh/24 liên kết, 16 bảng; kiểm tra văn bản PDF có cỡ 13 và không tràn lề; kiểm tra 24 URL nguồn trả HTTP 200 và XML Draw.io hợp lệ. Đã rà soát bố cục bản PDF sau chuyển đổi. Kiểm tra URL nguồn không thay thế việc kiểm tra trình duyệt của từng người đọc.
 
@@ -30,8 +30,8 @@ Frontend đã build thành công ở lần kiểm tra trước. Bộ kiểm th�
 
 Giữ 14 chức năng dạng oval và bốn tác nhân ở ngoài biên hệ thống. Toàn bộ 16 association giữa tác nhân và chức năng dùng đoạn thẳng nét liền, đúng kiểu trong ảnh tham khảo; hai include dùng nét đứt và đầu mũi tên mở. Đổi màu thành pastel theo nhóm: xanh nhạt cho các chức năng dùng chung/khách, mint cho giao dịch người mua, cam kem cho nhà bán và tím nhạt cho quản trị. Sắp lại ba use case mua hộp, đặt hàng và kiểm tra giá/tồn để đường include cũng đi thẳng. Nội dung và các cặp nguồn–đích vẫn giữ nguyên. Đã đồng bộ tệp gốc, PNG/SVG, bản A3, ZIP và Word/PDF; chú thích Hình 3.4 mở bản mới.
 
-## Phối màu tiết chế từ Hình 3.5 trở đi
+## Bản cơ bản từ Hình 3.5 trở đi
 
-Thay 20 hình từ 3.5–3.22 (có 3.11a, 3.12a) bằng bản phối màu pastel trong từng hình. Nền trắng, màu nhạt, chữ và đường nối tối. BPMN phân biệt trách nhiệm; ERD chỉ tô tiêu đề theo nhóm dữ liệu; sequence theo thành phần; lưu đồ/state machine nhấn điều kiện, chờ, thành công và lỗi. Chi tiết tại `So_do_BA/QUY_UOC_MAU_BA.md`.
+Thay 20 hình từ 3.5–3.22 (có 3.11a và 3.12a) bằng bản giản lược: nền trắng, khối trắng/xám nhạt, chữ và đường nối xám đậm; một số khối chính nhấn xanh xám rất nhạt. Bản này thay thế cách phối màu theo nhiều vai trò/trạng thái ở lần trước.
 
-Đợt này chỉ thay thuộc tính màu của các đối tượng; đã đối chiếu để giữ toàn bộ nhãn, kiểu shape, kích thước, vị trí và đường nối. Hình 3.1–3.4 giữ nguyên. Đã mở/xuất lại 20 hình và bộ 24 trang trong Draw.io; thay ảnh trong Word/PDF và cập nhật 20 liên kết tương ứng, giữ bốn liên kết còn lại. Nội dung chương và cỡ chữ 13 được giữ lại.
+Chỉ sửa thuộc tính màu. Nội dung, kiểu shape, vị trí, kích thước, cặp nguồn–đích và đường nối được giữ nguyên; Hình 3.1–3.4 giữ phiên bản đã chốt. Đã mở/xuất 20 hình và bộ 24 trang trong Draw.io, thay ảnh trong Word/PDF và cập nhật 20 link tương ứng. Nội dung chương, 24 chú thích/link và cỡ chữ 13 vẫn được giữ.
