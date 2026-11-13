@@ -15,6 +15,14 @@ Người viết: Vũ Thu Hà. Bản Word/PDF 26 trang đã thay các hình bằn
 
 Nếu GitHub không xem trước được, chọn **Download raw file**. Bản A3 là bản chi tiết để đọc các trường ERD và nhãn dài; hình trong chương được thu nhỏ để giữ nhịp nội dung.
 
+## Màu và đường nối đã cập nhật
+
+Mỗi hình dùng một tông màu chủ đạo riêng; giữ nền pastel và chữ tối. Đã sắp lại các đường hồi tiếp, đường lỗi, nhánh XOR và nhãn sự kiện/gateway bị đè. Đầu–cuối nghiệp vụ, nhãn và ký pháp được đối chiếu với bản trước.
+
+![24 tông màu chủ đạo](So_do_BA/Bang_mau_24_so_do.png)
+
+Xem [chi tiết chỉnh đường nối](So_do_BA/CAP_NHAT_MAU_VA_DUONG_NOI.md).
+
 ## Bộ hình vẽ lại
 
 24 trang gồm 22 hình theo outline, ERD hỗ trợ (3.12a) và wireframe (3.11a). Dùng UML Use Case, Activity, Sequence, State Machine; BPMN 2.0 với pool/lane, XOR và timer boundary; DFD Yourdon–DeMarco; Logical ERD Crow’s Foot. Các hình còn lại dùng flowchart, pipeline hoặc sitemap phù hợp mục đích.

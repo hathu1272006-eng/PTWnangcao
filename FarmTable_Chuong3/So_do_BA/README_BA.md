@@ -11,6 +11,41 @@ Bộ gồm **24 trang Draw.io**: 22 hình theo outline, ERD dữ liệu hỗ tr�
 
 **Bản A3:** `FarmTable_So_do_BA_A3.pdf` và `.docx` có 24 trang khổ A3 ngang, một sơ đồ/trang. Nên dùng bản này để đọc/in chi tiết. Chương 3 giữ hình tổng quan trong luồng nội dung; khi đọc chữ nhỏ như trường ERD, xem bản A3.
 
+## Màu chủ đạo theo từng hình
+
+Mỗi hình có một tông riêng theo yêu cầu. Nền pastel và chữ tối để dễ đọc/in. Màu không thay thế ký pháp: gateway, actor, dữ liệu, cardinality và hướng luồng vẫn nhận diện qua hình dạng/nhãn.
+
+![Bảng màu](Bang_mau_24_so_do.png)
+
+| Hình | Tông chủ đạo | Màu gốc |
+|---|---|---|
+| 3.1 | Xanh navy | `#355C9A` |
+| 3.2 | Xanh ngọc biển | `#297E86` |
+| 3.3 | Xám xanh | `#64748B` |
+| 3.4 | Tím lavender | `#7C4AA4` |
+| 3.5 | Xanh cyan | `#247BA0` |
+| 3.6 | Đỏ rượu | `#98536D` |
+| 3.7 | Vàng đồng | `#AA7624` |
+| 3.8 | Xanh emerald | `#3D8064` |
+| 3.9 | Chàm | `#5A5B9F` |
+| 3.10 | Nâu ochre | `#9B7639` |
+| 3.11 | Cam đất | `#B46653` |
+| 3.11a | Xám graphite | `#606B77` |
+| 3.12 | Tím mận | `#765479` |
+| 3.12a | Đồng copper | `#A46C45` |
+| 3.13 | Xanh steel | `#527A9D` |
+| 3.14 | Cam hổ phách | `#BD752E` |
+| 3.15 | Tím orchid | `#A15783` |
+| 3.16 | Xanh marine | `#3E6F8C` |
+| 3.17 | Đỏ gạch | `#9F5652` |
+| 3.18 | Xanh turquoise | `#2C8B88` |
+| 3.19 | Tím xanh | `#6861A7` |
+| 3.20 | Xanh olive | `#788644` |
+| 3.21 | Hồng rose | `#AC687E` |
+| 3.22 | Xanh petrol | `#34787D` |
+
+Đã rà lại đường hồi tiếp, các nhánh XOR, đường lỗi, vị trí nhãn gateway/sự kiện và các đường đi qua ghi chú. Chi tiết tại `CAP_NHAT_MAU_VA_DUONG_NOI.md`.
+
 ## Quy ước dùng trong bộ hình
 
 | Loại hình | Quy ước |
