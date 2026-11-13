@@ -20,7 +20,7 @@ Mỗi hình có một tông riêng theo yêu cầu. Nền pastel và chữ tối
 | Hình | Tông chủ đạo | Màu gốc |
 |---|---|---|
 | 3.1 | Xanh navy | `#355C9A` |
-| 3.2 | Xanh ngọc biển | `#297E86` |
+| 3.2 | Trung tính: trắng, xám và be nhạt | `#8D7860` |
 | 3.3 | Xám xanh | `#64748B` |
 | 3.4 | Tím lavender | `#7C4AA4` |
 | 3.5 | Xanh cyan | `#247BA0` |

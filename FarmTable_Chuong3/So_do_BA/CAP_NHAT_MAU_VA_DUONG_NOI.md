@@ -17,3 +17,13 @@
 | 3.22 | Vòng lặp chatbot đi ở mép ngoài, tránh hình bắt đầu, ghi chú và phụ đề. |
 
 Đã đối chiếu ID đầu–cuối, nhãn và loại đầu nối với bản trước, mở/xuất trong Draw.io, kiểm tra các ràng buộc BPMN/UML/DFD và số trang bộ hình. Các thay đổi thuộc trình bày; không thay nội dung nghiệp vụ trong chương.
+
+
+## Hình 3.2 – giản lược màu và sửa đường nối
+
+- Đổi nền xanh ngọc sang trắng/xám, chỉ nhấn be nhạt ở API và lớp nghiệp vụ; chữ và đường nối dùng xám đậm.
+- Tăng khoảng cách giữa giao diện, API, lớp nghiệp vụ, cơ sở dữ liệu và các dịch vụ ngoài.
+- Nhãn HTTPS/JSON, SSE và đọc/ghi được đặt lệch khỏi đường nối để không che đầu mũi tên.
+- Đường gọi Google/Gemini/SMTP đi dưới khối MongoDB, không xuyên qua dữ liệu; đường SSE quay về giao diện theo hành lang riêng.
+- Đầu mũi tên gọi nghiệp vụ bám vào cạnh trên phần thân package.
+- Giữ nguyên nội dung của bảy quan hệ và cặp phần tử nguồn–đích. Đã mở/xuất lại bằng Draw.io và kiểm tra ảnh kết quả.
