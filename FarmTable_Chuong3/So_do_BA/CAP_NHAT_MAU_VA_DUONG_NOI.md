@@ -27,3 +27,12 @@
 - Đường gọi Google/Gemini/SMTP đi dưới khối MongoDB, không xuyên qua dữ liệu; đường SSE quay về giao diện theo hành lang riêng.
 - Đầu mũi tên gọi nghiệp vụ bám vào cạnh trên phần thân package.
 - Giữ nguyên nội dung của bảy quan hệ và cặp phần tử nguồn–đích. Đã mở/xuất lại bằng Draw.io và kiểm tra ảnh kết quả.
+
+
+## Hình 3.4 – use case pastel và đường nối thẳng
+
+- Dùng oval cho use case, actor ở ngoài biên hệ thống; nền trắng, chữ và đường nối màu tối.
+- Màu pastel phân biệt nhóm chức năng: xanh nhạt cho chức năng dùng chung/khách; mint cho giao dịch người mua; cam kem cho nhà bán; tím nhạt cho quản trị.
+- Cả 16 association từ actor đến chức năng là một đoạn thẳng, nét liền; không dùng đường gấp vuông. Association giữ ký pháp UML không đầu mũi tên.
+- Hai quan hệ include dùng nét đứt, đầu mũi tên mở hướng đến use case được bao gồm. Đặt Mystery Box, Đặt hàng và Kiểm tra giá/tồn gần nhau để hai đường này cũng đi thẳng.
+- Giữ nguyên tên, số lượng và cặp nguồn–đích của các quan hệ; đã mở/xuất lại bằng Draw.io và kiểm tra hình.
