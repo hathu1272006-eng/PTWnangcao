@@ -1,17 +1,15 @@
-# Quy ước phối màu cho các sơ đồ BA
+# Màu và cách trình bày sơ đồ
 
-Từ Hình 3.5 đến Hình 3.22, kể cả 3.11a và 3.12a, mỗi hình dùng một số màu pastel để phân nhóm nội dung trên nền trắng. Chữ tối, đường nối trung tính; màu hỗ trợ đọc và không thay thế hình dạng, nhãn hay ký pháp.
+Từ Hình 3.5 đến Hình 3.22 (gồm 3.11a và 3.12a), các hình dùng nền trắng, khối trắng hoặc xám nhạt, chữ và đường nối xám đậm. Một số khối chính hoặc kết quả được nhấn bằng xanh xám rất nhạt.
 
-| Màu | Cách dùng |
+| Thành phần | Cách thể hiện |
 |---|---|
-| Xanh nhạt | Tương tác người dùng, đầu vào, tiếp nhận yêu cầu hoặc bước xử lý thông thường. |
-| Mint | Ghi nhận giao dịch, xử lý hoàn tất, kết quả hợp lệ hoặc nhóm dữ liệu giao dịch. |
-| Cam kem | Nhà bán, tích hợp, nhánh dự phòng hoặc dữ liệu sản phẩm. |
-| Tím nhạt | Quản trị, tác vụ nền, mô hình gợi ý hoặc nhóm dữ liệu nội dung/tương tác. |
-| Vàng nhạt | Điều kiện, trạng thái chờ, timeout hoặc hoàn tiền đang chờ. |
-| Hồng nhạt | Bị từ chối, hủy, lỗi, hủy giao dịch hoặc giải phóng giữ chỗ do thất bại. |
-| Xám sáng | Hạ tầng, kho dữ liệu, trạng thái trung gian và điểm bắt đầu. |
+| Khối xử lý thông thường | Trắng, viền xám. |
+| Tiêu đề lane/bảng, kho dữ liệu, điều kiện | Xám nhạt. |
+| Khối chính hoặc kết quả cần nhấn | Xanh xám rất nhạt, cùng một tông. |
+| Chữ và đường nối | Xám đậm để dễ đọc và in. |
+| Ghi chú | Nền gần trắng, viền xám nhẹ. |
 
-Mỗi loại hình áp dụng quy tắc theo nội dung: BPMN phân biệt lane/vai trò; ERD tô tiêu đề theo nhóm dữ liệu và giữ vùng thuộc tính trắng; sequence phối màu theo thành phần tham gia; lưu đồ và state machine nhấn điều kiện/kết quả; sitemap phân khu khách, người mua, nhà bán, quản trị. Wireframe chỉ nhấn nhẹ vùng điều hướng, bộ lọc và thao tác.
+Trạng thái và trách nhiệm được đọc qua nhãn, hình dạng và phân vùng. Đợt chỉnh này giữ nguyên nội dung, kiểu shape, vị trí, kích thước, cặp nguồn–đích và các đường nối. Hình 3.1–3.4 giữ phiên bản đã chốt.
 
-Hình 3.1–3.4 giữ bản đã chốt. Đợt phối màu này không thay đổi chữ, kiểu shape, kích thước, vị trí, cặp nguồn–đích, hướng mũi tên hay các điểm gấp của đường nối. Tệp nguồn đã được mở/xuất lại bằng Draw.io; các bản Word/PDF, A3, PNG, SVG và ZIP được đồng bộ.
+Word/PDF, các link bên cạnh chú thích, bộ Draw.io, bản A3 và ZIP được đồng bộ với bản mới.

@@ -11,9 +11,9 @@ Bộ gồm **24 trang Draw.io**: 22 hình theo outline, ERD dữ liệu hỗ tr�
 
 **Bản A3:** `FarmTable_So_do_BA_A3.pdf` và `.docx` có 24 trang khổ A3 ngang, một sơ đồ/trang. Nên dùng bản này để đọc/in chi tiết. Chương 3 giữ hình tổng quan trong luồng nội dung; khi đọc chữ nhỏ như trường ERD, xem bản A3.
 
-## Phối màu pastel theo nội dung
+## Màu cơ bản, tiết chế
 
-Từ Hình 3.5, mỗi hình phối vài màu pastel theo vai trò, dữ liệu hoặc trạng thái trên nền trắng, chữ tối và đường nối trung tính. Hình 3.1–3.4 giữ bản đã chốt. Xem [quy ước phối màu](QUY_UOC_MAU_BA.md).
+Từ Hình 3.5, các hình dùng trắng, xám nhạt và một màu nhấn xanh xám rất nhẹ; chữ và đường nối xám đậm. Hình 3.1–3.4 giữ bản đã chốt. Xem [cách trình bày](QUY_UOC_MAU_BA.md).
 
 ![Bảng màu](Bang_mau_24_so_do.png)
 
@@ -23,26 +23,26 @@ Từ Hình 3.5, mỗi hình phối vài màu pastel theo vai trò, dữ liệu h
 | 3.2 | Trung tính: trắng, xám và be nhạt | `#8D7860` |
 | 3.3 | Xám xanh | `#64748B` |
 | 3.4 | Pastel xanh, mint, cam và tím | `#76A78E` |
-| 3.5 | Pastel theo vai trò / dữ liệu | `#C5A06C` |
-| 3.6 | Pastel theo vai trò / dữ liệu | `#789AB8` |
-| 3.7 | Pastel theo vai trò / dữ liệu | `#C5A06C` |
-| 3.8 | Pastel theo vai trò / dữ liệu | `#789AB8` |
-| 3.9 | Pastel theo vai trò / dữ liệu | `#7FA58B` |
-| 3.10 | Pastel theo vai trò / dữ liệu | `#98A3B1` |
-| 3.11 | Pastel theo vai trò / dữ liệu | `#98A3B1` |
-| 3.11a | Wireframe sáng, nhấn nhẹ | `#789AB8` |
-| 3.12 | Pastel theo vai trò / dữ liệu | `#789AB8` |
-| 3.12a | Pastel theo vai trò / dữ liệu | `#789AB8` |
-| 3.13 | Pastel theo vai trò / dữ liệu | `#789AB8` |
-| 3.14 | Pastel theo bước và trạng thái | `#98A3B1` |
-| 3.15 | Pastel theo bước và trạng thái | `#98A3B1` |
-| 3.16 | Pastel theo bước và trạng thái | `#789AB8` |
-| 3.17 | Pastel theo bước và trạng thái | `#98A3B1` |
-| 3.18 | Pastel theo bước và trạng thái | `#98A3B1` |
-| 3.19 | Pastel theo bước và trạng thái | `#98A3B1` |
-| 3.20 | Pastel theo bước và trạng thái | `#789AB8` |
-| 3.21 | Pastel theo bước và trạng thái | `#98A3B1` |
-| 3.22 | Pastel theo bước và trạng thái | `#98A3B1` |
+| 3.5 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.6 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.7 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.8 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.9 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.10 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.11 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.11a | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.12 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.12a | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.13 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.14 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.15 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.16 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.17 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.18 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.19 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.20 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.21 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
+| 3.22 | Trắng, xám; nhấn xanh xám nhẹ | `#8296A3` |
 
 Đã rà lại đường hồi tiếp, các nhánh XOR, đường lỗi, vị trí nhãn gateway/sự kiện và các đường đi qua ghi chú. Chi tiết tại `CAP_NHAT_MAU_VA_DUONG_NOI.md`.
 

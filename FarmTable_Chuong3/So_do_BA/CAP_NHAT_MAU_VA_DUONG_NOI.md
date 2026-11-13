@@ -41,3 +41,8 @@
 ## Từ Hình 3.5 – phối nhiều màu pastel trong từng hình
 
 Đã thay cách tô một tông cho toàn hình bằng phối màu theo vai trò, dữ liệu, bước xử lý và trạng thái. Gồm 20 hình từ 3.5 đến 3.22, có 3.11a/3.12a. Các điểm nối, geometry và ký pháp được giữ nguyên. Xem `QUY_UOC_MAU_BA.md` và bảng phối màu mới.
+
+
+## Bản cơ bản từ Hình 3.5
+
+Đã giản lược 20 hình sang trắng/xám nhạt, chỉ nhấn nhẹ một số khối bằng xanh xám. Cấu trúc, ký pháp và đường nối giữ nguyên. Bản này thay thế cách phối nhiều màu trong từng hình ở lần trước.
