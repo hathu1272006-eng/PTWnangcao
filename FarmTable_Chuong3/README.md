@@ -1,6 +1,6 @@
 # FarmTable – Chương 3: Phương pháp thực hiện
 
-Người viết: Vũ Thu Hà. Bản Word/PDF 26 trang đã thay các hình bằng bộ sơ đồ vẽ lại theo ký pháp nghiệp vụ.
+Người viết: Vũ Thu Hà. Bản Word/PDF đã chỉnh lại văn phong theo các chương đã viết trong outline, dùng cỡ chữ 13 và bổ sung liên kết Draw.io cạnh từng chú thích hình. Bản PDF hiện có 37 trang, 24 hình và 16 bảng.
 
 ## Tải tài liệu
 
@@ -8,12 +8,23 @@ Người viết: Vũ Thu Hà. Bản Word/PDF 26 trang đã thay các hình bằn
 - **[PDF sơ đồ khổ A3, 24 trang để đọc/in chi tiết](So_do_BA/FarmTable_So_do_BA_A3.pdf?raw=true)**
 - [Word sơ đồ khổ A3](So_do_BA/FarmTable_So_do_BA_A3.docx?raw=true)
 - [Tải trọn bộ Draw.io, PNG, SVG và bản A3](So_do_va_anh_Chuong3.zip?raw=true)
-- [Chương 3 – Word đã thay hình](FarmTable_Chuong3.docx?raw=true)
-- [Chương 3 – PDF đã thay hình](FarmTable_Chuong3.pdf?raw=true)
+- [Chương 3 – Word đã chỉnh văn phong, cỡ chữ 13](FarmTable_Chuong3.docx?raw=true)
+- [Chương 3 – PDF đã chỉnh văn phong, cỡ chữ 13](FarmTable_Chuong3.pdf?raw=true)
 
 Để sửa: tải tệp `.drawio`, mở https://app.diagrams.net/ → **File → Open From → Device**. Đổi trang bằng thanh tab phía dưới. Mỗi khối, nhãn và đầu nối là đối tượng gốc, không phải một ảnh nền. Đọc [hướng dẫn và danh mục đầy đủ](So_do_BA/README_BA.md).
 
 Nếu GitHub không xem trước được, chọn **Download raw file**. Bản A3 là bản chi tiết để đọc các trường ERD và nhãn dài; hình trong chương được thu nhỏ để giữ nhịp nội dung.
+
+## Bản chỉnh văn phong và định dạng
+
+Nội dung được viết lại theo mạch trình bày của Chương 1, 4, 5 và 6 trong tài liệu Hà cung cấp: giải thích nhu cầu, cách nhóm thực hiện và ý nghĩa của lựa chọn. Các đoạn chuyển ý được bổ sung; các câu rời theo kiểu ghi chú kỹ thuật được chuyển thành đoạn văn. Cấu trúc 3.1–3.8 và nội dung nghiệp vụ được giữ lại.
+
+- Chữ cỡ **13** ở nội dung, đề mục, bảng, mã minh họa, chú thích và số trang.
+- Cả **24 chú thích hình** có phần **(link)** màu xanh, gạch chân, mở bản gốc bằng Draw.io; bản PDF cũng giữ các liên kết này.
+- Các liên kết trỏ tới phiên bản sơ đồ đã chốt màu và sửa đường nối, giúp nội dung trong hình khớp với bản mở để chỉnh sửa.
+- Bộ sơ đồ và các bản A3 vẫn được giữ trong thư mục `So_do_BA`.
+
+Xem [ghi chú biên tập và phạm vi kiểm tra](GHI_CHU_BIEN_TAP.md).
 
 ## Màu và đường nối đã cập nhật
 
